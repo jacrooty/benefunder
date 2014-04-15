@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'benefunder-id';
-	src:url('fonts/benefunder-id.eot?-822gmu');
-	src:url('fonts/benefunder-id.eot?#iefix-822gmu') format('embedded-opentype'),
-		url('fonts/benefunder-id.woff?-822gmu') format('woff'),
-		url('fonts/benefunder-id.ttf?-822gmu') format('truetype'),
-		url('fonts/benefunder-id.svg?-822gmu#benefunder-id') format('svg');
+	src:url('fonts/benefunder-id.eot?-9t9ylc');
+	src:url('fonts/benefunder-id.eot?#iefix-9t9ylc') format('embedded-opentype'),
+		url('fonts/benefunder-id.woff?-9t9ylc') format('woff'),
+		url('fonts/benefunder-id.ttf?-9t9ylc') format('truetype'),
+		url('fonts/benefunder-id.svg?-9t9ylc#benefunder-id') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,29 +23,35 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-tech:before {
-	content: "\e600";
-}
-.icon-wordmark-logo:before {
-	content: "\e601";
-}
-.icon-symbol-logo:before {
-	content: "\e602";
+.icon-official-logo:before {
+	content: "\e609";
 }
 .icon-standard-logo:before {
 	content: "\e603";
 }
-.icon-innovationseries-logo:before {
-	content: "\e604";
-}
 .icon-fullstack-logo:before {
 	content: "\e605";
 }
-.icon-health:before {
-	content: "\e606";
+.icon-wordmark-logo:before {
+	content: "\e601";
+}
+.icon-innovationseries-logo:before {
+	content: "\e604";
+}
+.icon-symbol-logo:before {
+	content: "\e602";
 }
 .icon-globe:before {
 	content: "\e607";
+}
+.icon-environ:before {
+	content: "\e60a";
+}
+.icon-tech:before {
+	content: "\e600";
+}
+.icon-health:before {
+	content: "\e606";
 }
 .icon-arts:before {
 	content: "\e608";
